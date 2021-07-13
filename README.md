@@ -39,8 +39,8 @@
 <hr>
 <h3 align="center">📊 GitHub Stats</h3> <br>
 
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=shunkang129&theme=nightowl&show_icons=true width=40%">
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shunkang129&theme=nightowl&layout=compact" width=40%">
+ <img align=left src="https://github-readme-stats.vercel.app/api?username=shunkang129&theme=nightowl&show_icons=true" width=40% />
+ <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=shunkang129&theme=nightowl&layout=compact" width=40% />
 
 
 

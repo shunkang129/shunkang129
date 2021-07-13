@@ -38,24 +38,24 @@
 
 <hr>
 <h3 align="center">📊 GitHub Stats</h3> <br>
-
- <img align=left src="https://github-readme-stats.vercel.app/api?username=shunkang129&theme=nightowl&show_icons=true" width=49% />
+<p>
+ <img align=left src="https://github-readme-stats.vercel.app/api?username=shunkang129&theme=nightowl&show_icons=true" width=50% />
  <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=shunkang129&theme=nightowl&layout=compact" width=42% />
-
+</p>
 
 
 <br><br><br><br><br><br><br><br>
 
 <h3 align="center">👩‍💻 Projects I have worked on & In Progress</h3> <br>
+<p>
+  <a href="https://github.com/shunkang129/FMS">
+    <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=shunkang129&repo=FMS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width=48% />
+  </a>
 
- <a href="https://github.com/shunkang129/FMS">
-   <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=shunkang129&repo=FMS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width=48% />
- </a>
-
- <a href="https://github.com/shunkang129/portfolio">
-   <img align=right src="https://github-readme-stats.vercel.app/api/pin/?username=shunkang129&repo=portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width=42% />
- </a>
- 
+  <a href="https://github.com/shunkang129/portfolio">
+    <img align=right src="https://github-readme-stats.vercel.app/api/pin/?username=shunkang129&repo=portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width=42% />
+  </a>
+</p>
 
 <!---
 shunkang129/shunkang129 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

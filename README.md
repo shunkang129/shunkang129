@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/-Vue%20-%2320232a?style=for-the-badge&logo=vue.js"> &nbsp;
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black"> &nbsp;
 <img src="https://img.shields.io/badge/-Threejs%20-grey?style=for-the-badge&logo=three.js"> &nbsp;
-
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> &nbsp;
 </p>
 
 <hr>

@@ -2,6 +2,7 @@
 👋 Hi, I’m Shun Kang. I am a CS fresh graduates majoring in Information Systems. I’m keen to learn all state of art programming languages and framework if the opporunities arise! 😃 
 </p>
 
+<img align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="59%" height="300%">
 <h3 align="center">📫 How To Reach Me</h3>
 <p align="center">
 <a href="mailto:shunkang_129@live.com"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mail&color=005FF9&logo=Mail&logoColor=FFFFFF&label=" ></a> &nbsp;

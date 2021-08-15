@@ -1,8 +1,8 @@
-<p align="center">
+<h2 align="center">
 👋 Hi, I’m Shun Kang. I am a CS fresh graduates majoring in Information Systems. I’m keen to learn all state of art programming languages and framework if the opporunities arise! 😃 
-</p>
+</h2>
 
-<img align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="70%" height="300%">
+<img align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="50%" height="300%">
 <h3 align="center">📫 How To Reach Me</h3>
 <p align="center">
 <a href="mailto:shunkang_129@live.com"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mail&color=005FF9&logo=Mail&logoColor=FFFFFF&label=" ></a> &nbsp;
@@ -30,13 +30,14 @@
 
 </p>
 
-
-<h3 align="center">🌱 I’m currently learning</h3>
-<p align="center">
-<!-- <img src="https://img.shields.io/badge/-Vue%20-%2320232a?style=for-the-badge&logo=vue.js"> &nbsp; -->
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black"> &nbsp;
-<!-- <img src="https://img.shields.io/badge/-Threejs%20-grey?style=for-the-badge&logo=three.js"> &nbsp; -->
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> &nbsp;
+<p align="left">
+ <h3 align="center">🌱 I’m currently learning</h3>
+ <p align="center">
+ <!-- <img src="https://img.shields.io/badge/-Vue%20-%2320232a?style=for-the-badge&logo=vue.js"> &nbsp; -->
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black"> &nbsp;
+ <!-- <img src="https://img.shields.io/badge/-Threejs%20-grey?style=for-the-badge&logo=three.js"> &nbsp; -->
+ <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> &nbsp;
+ </p>
 </p>
 
 <hr>

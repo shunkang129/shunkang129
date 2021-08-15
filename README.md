@@ -1,14 +1,16 @@
 <p align="center">
-👋 Hi, I’m Shun Kang. I am a final year CS student. I’m interested in Web Development especially Frontend development! 😃 
+👋 Hi, I’m Shun Kang. I am a CS fresh graduates majoring in Information Systems. I’m keen to learn all state of art programming languages and framework if the opporunities arise! 😃 
 </p>
-
-
 
 <h3 align="center">📫 How To Reach Me</h3>
 <p align="center">
 <a href="mailto:shunkang_129@live.com"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mail&color=005FF9&logo=Mail&logoColor=FFFFFF&label=" ></a> &nbsp;
  <a href="https://www.linkedin.com/in/shun-kang-kong-738b30205/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> &nbsp;  
  <a  href="https://stackoverflow.com/users/15611041/kang129"><img src="https://img.shields.io/badge/Stack Overflow-%2312100E.svg?&style=for-the-badge&logo=stackoverflow"></a>
+ <h4 align="center">🧑🏼‍💻 I’m practicing my programming skills at</h4>
+ <p align="center">
+ <a href="https://leetcode.com/shunkang129/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a> &nbsp;  
+ <a href="https://www.hackerrank.com/shunkang_129?hr_r=1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a> &nbsp; 
 </p>
 
 
@@ -28,11 +30,11 @@
 </p>
 
 
-<h3 align="center">🌱 I’m currently learning</h3> <br>
+<h3 align="center">🌱 I’m currently learning</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/-Vue%20-%2320232a?style=for-the-badge&logo=vue.js"> &nbsp;
+<!-- <img src="https://img.shields.io/badge/-Vue%20-%2320232a?style=for-the-badge&logo=vue.js"> &nbsp; -->
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black"> &nbsp;
-<img src="https://img.shields.io/badge/-Threejs%20-grey?style=for-the-badge&logo=three.js"> &nbsp;
+<!-- <img src="https://img.shields.io/badge/-Threejs%20-grey?style=for-the-badge&logo=three.js"> &nbsp; -->
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> &nbsp;
 </p>
 

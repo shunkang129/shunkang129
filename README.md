@@ -8,7 +8,7 @@
 <a href="mailto:shunkang_129@live.com"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mail&color=005FF9&logo=Mail&logoColor=FFFFFF&label=" ></a> &nbsp;
  <a href="https://www.linkedin.com/in/shun-kang-kong-738b30205/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> &nbsp;  
  <a  href="https://stackoverflow.com/users/15611041/kang129"><img src="https://img.shields.io/badge/Stack Overflow-%2312100E.svg?&style=for-the-badge&logo=stackoverflow"></a>
- <h4 align="center">🧑🏼‍💻 I’m practicing my programming skills at</h4>
+ <h3 align="center">🧑🏼‍💻 I’m practicing my programming skills at</h3>
  <p align="center">
  <a href="https://leetcode.com/shunkang129/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a> &nbsp;  
  <a href="https://www.hackerrank.com/shunkang_129?hr_r=1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a> &nbsp; 
